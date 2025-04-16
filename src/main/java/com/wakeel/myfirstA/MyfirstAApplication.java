@@ -9,7 +9,17 @@ public class MyfirstAApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MyfirstAApplication.class, args);
 		System.out.println("Hello world how are you ");
-		System.out.println("radhe radhe");
+		int a =10;
+		int b = 20;
+		if(a==b)
+		{
+			System.out.println("it is true");
+		}
+		else 
+		{
+			System.out.println("it is false");
+		}
+		
 		
 	}
 
