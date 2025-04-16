@@ -20,6 +20,8 @@ public class MyfirstAApplication {
 			System.out.println("it is false");
 		}
 		
+	String p = "pass";
+	String f = "false";
 		
 	}
 
